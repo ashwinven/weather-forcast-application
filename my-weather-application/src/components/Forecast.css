@@ -1,0 +1,43 @@
+.card-img-top{
+    width: 100%;
+    height: 100%;
+    border-top-right-radius: 1.25rem;
+    border-top-left-radius: 1.25rem;}
+
+    .card{
+        border-radius: 1.75rem;
+     }
+
+    .card-body{
+        padding: 17px;
+    }
+/* .card-text{
+    margin-bottom: 40px;
+} */
+
+.card-title{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.forecast-card
+{text-align: center;
+background-color: rgb(2, 1, 0);
+opacity: 0.6;}
+
+.forecast-data{
+    color: rgb(0, 38, 209);
+float: left;
+margin-left: 20px;
+
+}
+
+
+
+.card-mb-2{
+background-color: wheat;
+opacity: 0.6;
+text-align: center;
+
+}

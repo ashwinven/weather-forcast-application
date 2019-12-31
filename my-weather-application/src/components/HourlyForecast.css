@@ -1,0 +1,37 @@
+.card-img-top{
+    width: 100%;
+        height: 85px;
+        border-top-right-radius: 1.25rem;
+        border-top-left-radius: 1.25rem;}
+    
+        .card{
+            border-radius: 1.25rem;
+        }
+    
+        .card-body{
+            padding: 17px;
+        }
+    /* .card-text{
+        margin-bottom: 40px;
+    } */
+    
+    .card-title{
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    .hourlyForecast-card{
+        margin-top: 10px;
+        text-align: center;
+        background-color: ivory;
+        opacity: 0.6;
+    }
+    
+    
+    .card-mb-2{
+    background-color: wheat;
+    opacity: 0.6;
+    text-align: center;
+    
+    }
